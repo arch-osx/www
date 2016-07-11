@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="600"
+   height="199.41692"
+   id="svg2424"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="archlinux-logo-dark-scalable.518881f04ca9.svg">
+  <metadata
+     id="metadata3440">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="739"
+     id="namedview3438"
+     showgrid="false"
+     inkscape:zoom="1.6725146"
+     inkscape:cx="256.55629"
+     inkscape:cy="86.578472"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4323" />
+  <defs
+     id="defs2426">
+    <linearGradient
+       x1="112.49854"
+       y1="6.1372099"
+       x2="112.49853"
+       y2="129.3468"
+       id="path1082_2_"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(287,-83)">
+      <stop
+         id="stop193"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop195"
+         style="stop-color:#ffffff;stop-opacity:0.27450982"
+         offset="1" />
+      <midPointStop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="midPointStop197" />
+      <midPointStop
+         offset="0.5"
+         style="stop-color:#FFFFFF"
+         id="midPointStop199" />
+      <midPointStop
+         offset="1"
+         style="stop-color:#000000"
+         id="midPointStop201" />
+    </linearGradient>
+    <linearGradient
+       x1="541.33502"
+       y1="104.50665"
+       x2="606.91248"
+       y2="303.14029"
+       id="linearGradient2544"
+       xlink:href="#path1082_2_"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.3937741,0,0,0.393752,357.51969,122.00151)" />
+    <linearGradient
+       id="linearGradient3388">
+      <stop
+         id="stop3390"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop3392"
+         style="stop-color:#000000;stop-opacity:0.37113401"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="490.72305"
+       y1="237.72447"
+       x2="490.72305"
+       y2="183.9644"
+       id="linearGradient4416"
+       xlink:href="#linearGradient3388"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.749107,0,0,0.749107,-35.459862,91.44108)" />
+  </defs>
+  <g
+     transform="translate(-34.777313,-129.80241)"
+     id="layer1">
+    <g
+       transform="matrix(0.8746356,0,0,0.8746356,14.730518,23.408954)"
+       id="g2424">
+      <g
+         id="g4323">
+        <g
+           id="g3374">
+          <path
+             style="fill:#1793d1;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             d="M 105.8125 16.625 C 83.646076 74.365038 51.509183 131.02165 22.75 182.8125 C 44.371865 170.32982 62.000393 161.78423 78.148438 157.14258 L 103.48047 122.45312 L 78.480469 87.751953 L 83.580078 87.751953 L 106.18164 119.15234 L 129.28125 87.751953 L 134.28125 87.751953 L 109.08008 122.45312 L 134.39062 157.37109 C 150.30387 162.07252 167.67242 170.55382 188.90625 182.8125 C 183.78325 173.3807 179.21053 164.87862 174.84375 156.78125 C 158.02733 127.39442 183.91905 172.35239 169.03125 146 C 124.63297 63.33816 121.03766 52.354109 105.8125 16.625 z M 106.18164 125.75195 L 84.544922 155.49219 C 85.880514 155.18804 87.21056 154.90453 88.53125 154.65625 C 95.803445 153.23905 100.39283 153.48318 105.85547 153.49219 C 111.47799 153.48819 117.33278 153.7648 123.90625 154.78125 C 125.20626 155.03556 126.51547 155.32247 127.83008 155.63086 L 106.18164 125.75195 z "
+             transform="matrix(1.1433333,0,0,1.1433333,22.920168,121.64318)"
+             id="path2518" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:91.46666718px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="466.9429"
+         y="266.70749"
+         id="text4331"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4333"
+           x="466.9429"
+           y="266.70749"
+           style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:128.625px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Thin'">osx</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:128.62499537px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         x="227.31725"
+         y="266.77951"
+         id="text3364"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3366"
+           x="227.31725"
+           y="266.77951"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:128.62499537px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Light';">arch</tspan></text>
+    </g>
+  </g>
+</svg>
